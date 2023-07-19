@@ -3,7 +3,7 @@ UnB - Universidade de Brasilia
 FGA - Faculdade do Gama  
 TPPE - Técnicas de Programação para Plataformas Emergentes  
 
-# Trabalho Prático 1 - Test-Driven Development
+# Trabalho Prático 2
 
 # Integrantes
 
